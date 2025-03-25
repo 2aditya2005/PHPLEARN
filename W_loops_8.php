@@ -1,4 +1,6 @@
 <?php
+
+//while loops
 $i =0;
 
 while($i<50){
